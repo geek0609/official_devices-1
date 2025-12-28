@@ -23,4 +23,4 @@ jobs:
         with:
           commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
           commit_message: "[CI] Regen devices.json and DeviceList.md
-          file_pattern: "API/devices.json docs/DeviceList.md"
+          file_pattern: 'API/devices.json docs/DeviceList.md'
