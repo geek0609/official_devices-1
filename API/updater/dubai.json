@@ -12,23 +12,6 @@
                 "ota_property_files": "payload_metadata.bin:4222:178219,payload.bin:4222:2611891917,payload_properties.txt:2611896197:156,apex_info.pb:2049:1448,care_map.pb:3544:631,metadata:69:675,metadata.pb:812:1189                        "
             }
         ],
-        "version": "17.0",
-        "additional_images": [
-            {
-                "name": "dtbo-dubai_20260817_1706.img",
-                "SHA256": "7bd5cc42436d371666044e19284e91474b33b625b36f1af4e019b9364e62c991",
-                "size": 25165824
-            },
-            {
-                "name": "boot-dubai_20260817_1706.img",
-                "SHA256": "ad6092f06854a42dfc84e65658be462b068042c334b8c766ef2c2bd86714ff60",
-                "size": 100663296
-            },
-            {
-                "name": "vendor_boot-dubai_20260817_1706.img",
-                "SHA256": "a3bcc8caa4573c16da4edb77cb5dfbc738e1a1d186f134f3aaa20dc2371e726d",
-                "size": 100663296
-            }
-        ]
+        "version": "17.0"
     }
 ]
