@@ -97,7 +97,7 @@
             "XDA": null,
             "role": "Designer",
             "devices": [],
-            "active": true,
+            "active": false,
             "tagline": "falling's easy, but it only brings you down"
         },
         {
@@ -117,7 +117,7 @@
             "XDA": "https://xdaforums.com/m/twel12.11012701/",
             "role": "PixelOS Founder",
             "devices": [],
-            "active": true,
+            "active": false,
             "tagline": "I don't know how it works but it just works."
         },
         {
@@ -127,7 +127,7 @@
             "XDA": null,
             "role": "Pixelish Founder",
             "devices": [],
-            "active": true,
+            "active": false,
             "tagline": null
         },
         {
