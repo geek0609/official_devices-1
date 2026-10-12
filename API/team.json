@@ -59,7 +59,9 @@
             "telegram": null,
             "XDA": null,
             "role": "Core-Member",
-            "devices": [],
+            "devices": [
+                { "codename": "gauguin" }
+            ],
             "active": true,
             "tagline": "Life is not so yahooo~"
         },
